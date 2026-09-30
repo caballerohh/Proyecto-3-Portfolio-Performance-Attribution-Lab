@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Legacy repository.** This project has been consolidated into [Risk-and-Portfolio-Engine](https://github.com/caballerohh/Risk-and-Portfolio-Engine), which contains the current performance-attribution and risk-reporting workflow. This repository remains public only for version history and project traceability.
+
 # 📊 Quant-Report Pro: Automated Portfolio Risk & Performance Analytics
 
 This repository features an exhaustive **Quantitative Risk Framework** designed to evaluate the stability and efficiency of a diversified investment portfolio. Based on the **Quarterly Financial Report (August – November 2025)**, this engine automates the validation of risk models and performance attribution across a multi-asset universe.
@@ -8,8 +11,6 @@ This repository features an exhaustive **Quantitative Risk Framework** designed 
 
 ## 📖 Extended Overview
 The system provides a comprehensive quantitative evaluation of a multi-asset portfolio composed of high-growth tech equities, systemic financial entities, and fixed-income stabilizers. The analysis synchronizes log-daily returns with **Jarque-Bera normality tests** to accurately calibrate risk thresholds and identify regime changes in market volatility.
-
-
 
 ### 🎯 Key Objectives of the Analysis
 * **Alpha & Beta Attribution:** Evaluation of excess returns via the CAPM model, highlighting a **Jensen's Alpha of 0.13** for the consolidated portfolio.
